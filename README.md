@@ -1,0 +1,1 @@
+# Script download comics by python
